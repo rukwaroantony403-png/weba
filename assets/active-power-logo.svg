@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 150" role="img" aria-labelledby="title">
+  <title id="title">Active Power Energy Limited</title>
+  <path d="M75 13a57 57 0 1 1-35 102l17-20a33 33 0 1 0 25-59z" fill="#08090b"/>
+  <path d="M75 13 47 43 28 62a57 57 0 0 0 6 79l16-22a33 33 0 0 1-1-46l26-27 20-20z" fill="#ed1c24"/>
+  <path d="m139 0-54 70h34l-91 80 48-76H46l67-74z" fill="#1763a6" transform="translate(-32 8) scale(.88)"/>
+  <text x="148" y="66" fill="#153b73" font-family="Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="1">ACTIVE POWER</text>
+  <text x="150" y="105" fill="#153b73" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="6">ENERGY LIMITED</text>
+</svg>
