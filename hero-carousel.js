@@ -9,7 +9,7 @@ if (hero) {
   const slides = [
     {
       label: 'WELCOME TO ACTIVE POWER LTD',
-      title: '<span>Stand-by Power Solutions</span><br>across <em>East Africa</em>',
+      title: '<span class="hero-line">Stand-by Power Solutions</span><span class="hero-line">across <em>East Africa</em></span>',
       points: ['Reliable. Efficient. Always On.', 'Customized power systems for your operation', 'Equipment, installation and ongoing support'],
       outcome: 'Reliable power, ready when you need it',
       cta: 'Explore our solutions',
@@ -18,7 +18,7 @@ if (hero) {
     },
     {
       label: 'GENERATOR SETS / 5 KVA TO 2,500 KVA',
-      title: 'The right power<br><em>for every demand.</em>',
+      title: '<span class="hero-line">The right power</span><span class="hero-line"><em>for every demand.</em></span>',
       points: ['Diesel and petrol generator sets', 'Cummins, Perkins and Doosan engine options', 'Soundproof canopies for quieter operation'],
       outcome: 'Configured for your site and load',
       cta: 'View generator range',
@@ -27,7 +27,7 @@ if (hero) {
     },
     {
       label: 'INTEGRATED SOLUTIONS / EAST AFRICA',
-      title: 'Power, planned<br><em>around you.</em>',
+      title: '<span class="hero-line">Power, planned</span><span class="hero-line"><em>around you.</em></span>',
       points: ['Automatic Voltage Regulators for stable output', 'Mobile trailer sets for flexible power', 'Tailor-made projects from specification to commissioning'],
       outcome: 'One partner from planning to power-on',
       cta: 'Plan a project',
@@ -36,7 +36,7 @@ if (hero) {
     },
     {
       label: 'TECHNICAL SUPPORT / 24 HOURS',
-      title: 'Keep operations<br><em>ready to run.</em>',
+      title: '<span class="hero-line">Keep operations</span><span class="hero-line"><em>ready to run.</em></span>',
       points: ['24/7 technical support and scheduled maintenance', 'Genuine spare parts and responsive service', 'Support for your power system throughout its life'],
       outcome: 'Dependable support when it matters',
       cta: 'Explore our services',
